@@ -69,11 +69,11 @@ namespace ArraysAndLists
                 Console.WriteLine($"{num}");
             }
 
-            Console.WriteLine($"Odd Numbers");
+            Console.WriteLine($"Odd Numbers:");
 
             foreach (var num in odds)
             {
-                Console.WriteLine($"{ num}");
+                Console.WriteLine($"{num}");
             }
 
 
